@@ -1,1 +1,1 @@
-my first readme
+git beginner steps
